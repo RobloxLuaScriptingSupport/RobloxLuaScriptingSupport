@@ -1,0 +1,4 @@
+- 👋 Hi, I am a roblox studio lua support
+- I would help you with scripting games in roblox studio
+- i would make files with scripts
+- follow to get notifications about my scripts
